@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/39d02n74d89/08242/" data-label_1="RIO GRANDE" data-label_2="WEATHER" data-font="Tinos" data-icons="Climacons Animated" data-theme="original" data-basecolor="#fee4de" data-textcolor="#ff8193" data-highcolor="#f69f9f" data-lowcolor="#93b8ec" data-cloudfill="#f4f8fa" >RIO GRANDE WEATHER</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
